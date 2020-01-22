@@ -4,4 +4,4 @@ Vamos a realizar una actividad de pruebas con comandos y clientes, tanto de mane
 
 Accede a la actividad con comandos: [Actividad comandos](https://github.com/amcamiguel/FTP6/blob/master/comandos.md)
 
-Accede a la actividad de FileZilla: [Actividad FileZilla]
+Accede a la actividad de FileZilla: [Actividad FileZilla](https://github.com/amcamiguel/FTP6/blob/master/FileZilla.md)
