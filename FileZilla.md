@@ -25,4 +25,4 @@ Prueba todas estas opciones y una vez lo hayas hecho habrás finalizado la activ
 
 Si quieres puedes acceder a la actividad de los comandos clickando en este [enlace](comandos.md)
 
-[Volver a la página principal](https://amcamiguel.github.io/FTP6/.)
+[Volver a la página principal](README.md)
