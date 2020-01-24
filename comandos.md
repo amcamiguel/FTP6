@@ -42,4 +42,6 @@ A continuación vamos a probar a borrar archivos que hayamos subido al servidor:
 
 Y estas serían las distintas pruebas que vamos a realizar con los comandos.
 
+En este [enlace](FileZilla.md) podrás acceder a la actividad del FileZilla.
+
 [Volver a la página principal](README.md)
