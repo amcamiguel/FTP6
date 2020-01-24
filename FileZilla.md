@@ -22,3 +22,5 @@ Ahora vamos a ver que se modifica si hacemos el click derecho en el archivo del 
 A primera vista parece que tenemos las mismas opciones, pero vemos que en vez de **Subir** la que nos aparece es **Descargar** que funciona de la misma que el *get*
 
 Prueba todas estas opciones y una vez lo hayas hecho habrás finalizado la actividad.
+
+Si quieres puedes acceder a la actividad de los comandos clickando en este [enlace](ftp6/Comandos.md)
