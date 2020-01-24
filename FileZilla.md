@@ -24,3 +24,5 @@ A primera vista parece que tenemos las mismas opciones, pero vemos que en vez de
 Prueba todas estas opciones y una vez lo hayas hecho habrás finalizado la actividad.
 
 Si quieres puedes acceder a la actividad de los comandos clickando en este [enlace](comandos.md)
+
+[Volver a la página principal](https://amcamiguel.github.io/FTP6/.)
