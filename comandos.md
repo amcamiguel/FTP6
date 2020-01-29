@@ -12,7 +12,7 @@ El primer comando que veremos es el *ls*, después de conectarnos al servidor si
 
 ![imagen1](/imagenes/captura1.png)
 
-Pero si en cambio lo usamos poniendo ! nos apareceran los directorios del usuario donde estamos alojando el servidor.
+Pero si en cambio lo usamos poniendo ! nos aparecerán los directorios del usuario donde estamos alojando el servidor.
 
 ![imagen2](/imagenes/captura2.png)
 
